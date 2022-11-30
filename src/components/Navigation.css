@@ -1,0 +1,8 @@
+nav ul {
+  list-style: none;
+}
+nav ul li a {
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 10px;
+}
